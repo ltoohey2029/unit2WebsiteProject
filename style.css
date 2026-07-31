@@ -1,0 +1,49 @@
+body {
+  background: #872929;
+}
+p {
+  color: #f6f2db;
+  font-size: 25px
+}
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  color: aliceblue;
+  text-decoration: underline
+  }
+h2 {
+  color: #efbb81;
+  text-decoration: underline
+}
+li {
+  font-size: 20px;
+  color: #f6f2db;
+}
+a {
+  color: #e6e7ff;
+  font-size: 20px
+}
+img {
+  float: right;
+  width: 400px;
+  margin: 10px;
+  border-color: #650f0f;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.video {
+  color: #b2de81;
+  font-size: 25px    
+}
+
+.laura {
+  float: left;
+  width: 300px
+}
+
+.laura_paragraph {
+  float: left;
+  width: 500px
+}
